@@ -1,1 +1,2 @@
-# erlang_notes
+# Hello Erlang
+My Erlang studies
